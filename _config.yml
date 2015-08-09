@@ -1,0 +1,12 @@
+# Site settings
+title: APCW
+email: trustees@apcwindia.org
+description: > # this means to ignore newlines until "baseurl:"
+  Association of Parents for Child Welfare (APCW), is a trust based in Bengaluru, focused on child safety and welfare.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://apcwindia.org" # the base hostname & protocol for your site
+twitter_username: apcwindia
+github_username:  mayank-io
+
+# Build settings
+markdown: kramdown
